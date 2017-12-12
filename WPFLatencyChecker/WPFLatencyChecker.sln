@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLatencyChecker", "WpfApp10\WpfLatencyChecker.csproj", "{0578860B-DDC6-471D-82A5-8E88EABF48D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0578860B-DDC6-471D-82A5-8E88EABF48D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0578860B-DDC6-471D-82A5-8E88EABF48D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0578860B-DDC6-471D-82A5-8E88EABF48D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0578860B-DDC6-471D-82A5-8E88EABF48D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB19DA9A-5565-47DC-ADDF-6265FA5CB88D}
+	EndGlobalSection
+EndGlobal
