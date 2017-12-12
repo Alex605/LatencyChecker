@@ -1,1 +1,2 @@
 # LatencyChecker
+Currently allows players to ping the majority of League of Legends and Player Unknown's Battlegrounds servers. Users select the game from the drop down list, then they select the server for that game and click the Ping button. There is occasionally an issue where the the ping fails. When this happens, the application will display a message saying that there was an error and to click the Ping button to try again. Pings likely won't be 100% exact, but it should be fairly accurate. 
